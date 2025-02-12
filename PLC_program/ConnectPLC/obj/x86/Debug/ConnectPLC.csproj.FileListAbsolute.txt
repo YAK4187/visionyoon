@@ -1,0 +1,11 @@
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\bin\x86\Debug\ConnectPLC.exe.config
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\bin\x86\Debug\ConnectPLC.exe
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\bin\x86\Debug\ConnectPLC.pdb
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.csproj.ResolveComReference.cache
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.Form1.resources
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.Properties.Resources.resources
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.csproj.GenerateResource.cache
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.csproj.CoreCompileInputs.cache
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.exe
+C:\Users\ICON\source\repos\ConnectPLC\ConnectPLC\obj\x86\Debug\ConnectPLC.pdb
