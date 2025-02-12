@@ -21,10 +21,12 @@
    - 공정 자동화 및 장비 제어 구현
    - C# 관련 소프트웨어와 관련 프로토콜 사용
 
----
+### 4. **포트폴리오 및 보고서**
+   - EVT 3D Tool
+   - PLC 통신
+   - 포트폴리오
+   - 르노코리아_출장_보고서
 
-## 🚀 **사용 방법**
-1. **Git 저장소 클론**
-   ```bash
+
    git clone https://github.com/YAK4187/visionyoon.git
-   cd visionyoon
+
