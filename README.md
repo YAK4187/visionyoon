@@ -1,5 +1,5 @@
 # VisionYoon
-**Machine Vision & PLC Control Projects**  
+**Machine Vision & Control Projects**  
 이 저장소는 머신 비전 및 제어 관련 프로젝트를 관리합니다.  
 
 ---
